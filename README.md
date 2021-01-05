@@ -1,4 +1,4 @@
-# Games Documents
+# Games-Documents
 Games errata, FAQ and clarifications in viewable and printable PDF formats.
 
 
@@ -14,7 +14,7 @@ The document is available for:
 
 
 
-## Kingdom Builder
+## Kingdom-Builder
 
 **Kingdom Builder - New Quick Reference Guide.pdf** is a quick reference guide for *Terrain types and extra actions* and *Kingdom Builder cards*.
 
